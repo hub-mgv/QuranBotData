@@ -158,789 +158,723 @@
       "radios": [
         {
           "id": 1,
-          "name": "إذاعة إبراهيم الأخضر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ibrahim_alakdar"
+          "name": "إذاعة القرآن العامة",
+          "url": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3"
+        },
+        {
+          "id": 2,
+          "name": "القارئ سعود الشريم",
+          "url": "https://radio.mp3islam.com/listen/alshuraim/radio.mp3"
+        },
+        {
+          "id": 3,
+          "name": "القارئ علي الحذيفي",
+          "url": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3"
         },
         {
           "id": 4,
-          "name": "إذاعة أحمد الحواشي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ahmad_alhawashi"
+          "name": "القارئ عبدالباسط عبدالصمد",
+          "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+        },
+        {
+          "id": 5,
+          "name": "القارئ ياسر الدوسري",
+          "url": "https://radio.mp3islam.com/listen/yaser/radio.mp3"
         },
         {
           "id": 6,
-          "name": "إذاعة أحمد نعينع",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ahmad_nauina"
+          "name": "القارئ عبدالرحمن السديس",
+          "url": "https://radio.mp3islam.com/listen/sudais/radio.mp3"
         },
         {
           "id": 7,
-          "name": "إذاعة أكرم العلاقمي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/akram_alalaqmi"
+          "name": "إذاعة تفسير القرآن",
+          "url": "https://radio.quranradiotafsir.com/9992/stream"
         },
         {
           "id": 8,
-          "name": "إذاعة إدريس أبكر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/idrees_abkr"
+          "name": "القارئ إبراهيم الأخضر",
+          "url": "https://backup.qurango.net/radio/ibrahim_alakdar"
         },
         {
           "id": 9,
-          "name": "إذاعة الزين محمد أحمد",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad"
+          "name": "القارئ أبو بكر الشاطري",
+          "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri"
+        },
+        {
+          "id": 10,
+          "name": "القارئ أحمد العجمي",
+          "url": "https://backup.qurango.net/radio/ahmad_alajmy"
+        },
+        {
+          "id": 11,
+          "name": "القارئ أحمد الحواشي",
+          "url": "https://backup.qurango.net/radio/ahmad_alhawashi"
+        },
+        {
+          "id": 12,
+          "name": "القارئ أحمد صابر",
+          "url": "https://backup.qurango.net/radio/ahmad_saber"
         },
         {
           "id": 13,
-          "name": "إذاعة جمال شاكر عبدالله",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah"
+          "name": "القارئ أحمد نعينع",
+          "url": "https://backup.qurango.net/radio/ahmad_nauina"
+        },
+        {
+          "id": 14,
+          "name": "القارئ أكرم العلاقمي",
+          "url": "https://backup.qurango.net/radio/akram_alalaqmi"
+        },
+        {
+          "id": 15,
+          "name": "القارئ إدريس أبكر",
+          "url": "https://backup.qurango.net/radio/idrees_abkr"
         },
         {
           "id": 16,
-          "name": "إذاعة خليفة الطنيجي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/khalifa_altunaiji"
+          "name": "القارئ الزين محمد أحمد",
+          "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad"
         },
         {
           "id": 17,
-          "name": "إذاعة سعد الغامدي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/saad_alghamdi"
+          "name": "القارئ ياسين",
+          "url": "https://backup.qurango.net/radio/alqaria_yassen"
         },
         {
           "id": 18,
-          "name": "إذاعة سعود الشريم",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/saud_alshuraim"
+          "name": "القارئ العيون الكوشي",
+          "url": "https://backup.qurango.net/radio/aloyoon_alkoshi"
+        },
+        {
+          "id": 19,
+          "name": "القارئ توفيق الصايغ",
+          "url": "https://backup.qurango.net/radio/tawfeeq_assayegh"
         },
         {
           "id": 20,
-          "name": "إذاعة زكي داغستاني",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/zaki_daghistani"
+          "name": "القارئ جمال شاكر عبدالله",
+          "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah"
         },
         {
           "id": 21,
-          "name": "إذاعة سيد رمضان",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/sayeed_ramadan"
-        },
-        {
-          "id": 22,
-          "name": "إذاعة شيرزاد عبدالرحمن طاهر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/shirazad_taher"
+          "name": "القارئ خالد القحطاني",
+          "url": "https://backup.qurango.net/radio/khaled_alqahtani"
         },
         {
           "id": 23,
-          "name": "إذاعة صابر عبدالحكم",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/saber_abdulhakm"
+          "name": "القارئ خليفة الطنيجي",
+          "url": "https://backup.qurango.net/radio/khalifa_altunaiji"
+        },
+        {
+          "id": 24,
+          "name": "القارئ سعد الغامدي",
+          "url": "https://backup.qurango.net/radio/saad_alghamdi"
+        },
+        {
+          "id": 25,
+          "name": "القارئ سهل ياسين",
+          "url": "https://backup.qurango.net/radio/sahl_yassin"
         },
         {
           "id": 26,
-          "name": "إذاعة صلاح بو خاطر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/slaah_bukhatir"
+          "name": "القارئ زكي داغستاني",
+          "url": "https://backup.qurango.net/radio/zaki_daghistani"
         },
         {
           "id": 27,
-          "name": "إذاعة عادل ريان",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/adel_ryyan"
+          "name": "القارئ سيد رمضان",
+          "url": "https://backup.qurango.net/radio/sayeed_ramadan"
         },
         {
           "id": 28,
-          "name": "إذاعة عبدالبارئ الثبيتي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdelbari_altoubayti"
+          "name": "القارئ شيرزاد عبدالرحمن طاهر",
+          "url": "https://backup.qurango.net/radio/shirazad_taher"
+        },
+        {
+          "id": 29,
+          "name": "القارئ صابر عبدالحكم",
+          "url": "https://backup.qurango.net/radio/saber_abdulhakm"
+        },
+        {
+          "id": 30,
+          "name": "القارئ صلاح البدير",
+          "url": "https://backup.qurango.net/radio/salah_albudair"
         },
         {
           "id": 31,
-          "name": "إذاعة عبدالباسط عبدالصمد",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh"
+          "name": "القارئ صلاح الهاشم",
+          "url": "https://backup.qurango.net/radio/salah_alhashim"
         },
         {
           "id": 32,
-          "name": "إذاعة عبدالباسط عبدالصمد",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad"
+          "name": "القارئ صلاح بو خاطر",
+          "url": "https://backup.qurango.net/radio/slaah_bukhatir"
         },
         {
           "id": 33,
-          "name": "إذاعة عبدالرحمن السديس",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes"
+          "name": "القارئ عادل ريان",
+          "url": "https://backup.qurango.net/radio/adel_ryyan"
+        },
+        {
+          "id": 34,
+          "name": "القارئ عبدالبارئ الثبيتي",
+          "url": "https://backup.qurango.net/radio/abdelbari_altoubayti"
         },
         {
           "id": 35,
-          "name": "إذاعة عبدالله المطرود",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdullah_almattrod"
+          "name": "القارئ عبدالبارئ محمد",
+          "url": "https://backup.qurango.net/radio/abdulbari_mohammad"
         },
         {
           "id": 36,
-          "name": "إذاعة عبدالله بصفر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdullah_basfer"
+          "name": "القارئ عبدالباسط عبدالصمد (مجود)",
+          "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad"
         },
         {
           "id": 37,
-          "name": "إذاعة عبدالله خياط",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdullah_khayyat"
+          "name": "القارئ عبدالباسط عبدالصمد (ورش)",
+          "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh"
         },
         {
           "id": 38,
-          "name": "إذاعة عبدالله عواد الجهني",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdullah_aljohany"
+          "name": "القارئ عبدالرحمن السديس",
+          "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes"
         },
         {
           "id": 39,
-          "name": "إذاعة عبدالرشيد صوفي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+          "name": "القارئ عبدالعزيز الأحمد",
+          "url": "https://backup.qurango.net/radio/abdul_aziz_alahmad"
         },
         {
           "id": 40,
-          "name": "إذاعة عبدالرشيد صوفي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi"
+          "name": "القارئ عبدالله المطرود",
+          "url": "https://backup.qurango.net/radio/abdullah_almattrod"
         },
         {
           "id": 41,
-          "name": "إذاعة عبدالمحسن الحارثي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulmohsin_alharthy"
+          "name": "القارئ عبدالله بصفر",
+          "url": "https://backup.qurango.net/radio/abdullah_basfer"
         },
         {
           "id": 42,
-          "name": "إذاعة عبدالمحسن القاسم",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulmohsen_alqasim"
+          "name": "القارئ عبدالله خياط",
+          "url": "https://backup.qurango.net/radio/abdullah_khayyat"
         },
         {
           "id": 43,
-          "name": "إذاعة عبدالمحسن العبيكان",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan"
+          "name": "القارئ عبدالله عواد الجهني",
+          "url": "https://backup.qurango.net/radio/abdullah_aljohany"
         },
         {
           "id": 44,
-          "name": "إذاعة عبدالهادي أحمد كناكري",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulhadi_kanakeri"
+          "name": "القارئ عبدالرشيد صوفي (خلف)",
+          "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
         },
         {
           "id": 45,
-          "name": "إذاعة عبدالودود حنيف",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/abdulwadood_haneef"
+          "name": "القارئ عبدالرشيد صوفي (عاصم)",
+          "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi"
         },
         {
           "id": 46,
-          "name": "إذاعة علي بن عبدالرحمن الحذيفي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ali_alhuthaifi"
+          "name": "القارئ عبدالمحسن الحارثي",
+          "url": "https://backup.qurango.net/radio/abdulmohsin_alharthy"
         },
         {
           "id": 47,
-          "name": "إذاعة علي الحذيفي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon"
+          "name": "القارئ عبدالمحسن القاسم",
+          "url": "https://backup.qurango.net/radio/abdulmohsen_alqasim"
         },
         {
           "id": 48,
-          "name": " إذاعة علي جابر",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ali_jaber"
+          "name": "القارئ عبدالمحسن العبيكان",
+          "url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan"
         },
         {
           "id": 49,
-          "name": " إذاعة علي حجاج السويسي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi"
+          "name": "القارئ عبدالهادي كناكري",
+          "url": "https://backup.qurango.net/radio/abdulhadi_kanakeri"
         },
         {
           "id": 50,
-          "name": " إذاعة عماد زهير حافظ",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/emad_hafez"
+          "name": "القارئ عبدالودود حنيف",
+          "url": "https://backup.qurango.net/radio/abdulwadood_haneef"
         },
         {
           "id": 51,
-          "name": " إذاعة عمر القزابري",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/omar_alqazabri"
+          "name": "القارئ علي بن عبدالرحمن الحذيفي",
+          "url": "https://backup.qurango.net/radio/ali_alhuthaifi"
         },
         {
           "id": 52,
-          "name": " إذاعة فارس عباد",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/fares_abbad"
+          "name": "القارئ علي الحذيفي (قالون)",
+          "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon"
         },
         {
           "id": 53,
-          "name": " إذاعة ناصر القطامي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/nasser_alqatami"
+          "name": "القارئ علي جابر",
+          "url": "https://backup.qurango.net/radio/ali_jaber"
         },
         {
           "id": 54,
-          "name": " إذاعة نبيل الرفاعي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/nabil_al_rifay"
+          "name": "القارئ علي حجاج السويسي",
+          "url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi"
         },
         {
           "id": 55,
-          "name": " إذاعة نعمة الحسان",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/neamah_alhassan"
+          "name": "القارئ عماد زهير حافظ",
+          "url": "https://backup.qurango.net/radio/emad_hafez"
         },
         {
           "id": 56,
-          "name": " إذاعة هاني الرفاعي",
-          "recent_date": "2020-04-25 22:04:04",
-          "url": "https://backup.qurango.net/radio/hani_arrifai"
+          "name": "القارئ عمر القزابري",
+          "url": "https://backup.qurango.net/radio/omar_alqazabri"
         },
         {
           "id": 57,
-          "name": " إذاعة وليد النائحي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/waleed_alnaehi"
+          "name": "القارئ فارس عباد",
+          "url": "https://backup.qurango.net/radio/fares_abbad"
+        },
+        {
+          "id": 58,
+          "name": "القارئ ناصر القطامي",
+          "url": "https://backup.qurango.net/radio/nasser_alqatami"
         },
         {
           "id": 59,
-          "name": " إذاعة ياسر القرشي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/yasser_alqurashi"
+          "name": "القارئ نبيل الرفاعي",
+          "url": "https://backup.qurango.net/radio/nabil_al_rifay"
         },
         {
           "id": 60,
-          "name": " إذاعة ياسر المزروعي ",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/yasser_almazroyee"
+          "name": "القارئ نعمة الحسان",
+          "url": "https://backup.qurango.net/radio/neamah_alhassan"
         },
         {
           "id": 61,
-          "name": " إذاعة يحيى حوا",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/yahya_hawwa"
+          "name": "القارئ هاني الرفاعي",
+          "url": "https://backup.qurango.net/radio/hani_arrifai"
         },
         {
           "id": 62,
-          "name": " إذاعة يوسف الشويعي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/yousef_alshoaey"
+          "name": "القارئ وليد النائحي",
+          "url": "https://backup.qurango.net/radio/waleed_alnaehi"
         },
         {
           "id": 63,
-          "name": " إذاعة ماهر المعيقلي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/maher"
+          "name": "القارئ ياسر القرشي",
+          "url": "https://backup.qurango.net/radio/yasser_alqurashi"
         },
         {
           "id": 64,
-          "name": " إذاعة محمد الطبلاوي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammad_altablaway"
+          "name": "القارئ ياسر المزروعي",
+          "url": "https://backup.qurango.net/radio/yasser_almazroyee"
+        },
+        {
+          "id": 65,
+          "name": "القارئ يحيى حوا",
+          "url": "https://backup.qurango.net/radio/yahya_hawwa"
         },
         {
           "id": 66,
-          "name": " إذاعة محمد أيوب",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammed_ayyub"
+          "name": "القارئ يوسف الشويعي",
+          "url": "https://backup.qurango.net/radio/yousef_alshoaey"
+        },
+        {
+          "id": 67,
+          "name": "القارئ ماهر المعيقلي",
+          "url": "https://backup.qurango.net/radio/maher"
         },
         {
           "id": 68,
-          "name": " إذاعة محمد جبريل",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammed_jibreel"
+          "name": "القارئ محمد الطبلاوي",
+          "url": "https://backup.qurango.net/radio/mohammad_altablaway"
         },
         {
           "id": 69,
-          "name": " إذاعة محمد صديق المنشاوي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi"
+          "name": "القارئ محمد اللحيدان",
+          "url": "https://backup.qurango.net/radio/mohammed_allohaidan"
         },
         {
           "id": 70,
-          "name": " إذاعة محمد صديق المنشاوي",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"
+          "name": "القارئ محمد أيوب",
+          "url": "https://backup.qurango.net/radio/mohammed_ayyub"
         },
         {
           "id": 71,
-          "name": " إذاعة محمد عبدالكريم",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammad_abdullkarem"
+          "name": "القارئ محمد صديق المنشاوي",
+          "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi"
         },
         {
           "id": 72,
-          "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi"
+          "name": "القارئ محمد صديق المنشاوي (مجود)",
+          "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"
         },
         {
           "id": 73,
-          "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai"
-        },
-        {
-          "id": 74,
-          "name": " إذاعة محمود خليل الحصري",
-          "recent_date": "2020-04-25 22:04:05",
+          "name": "القارئ محمود خليل الحصري",
           "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary"
         },
         {
-          "id": 75,
-          "name": " إذاعة محمود خليل الحصري",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 74,
+          "name": "القارئ محمود خليل الحصري (مجود)",
           "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad"
         },
         {
-          "id": 76,
-          "name": " إذاعة محمود خليل الحصري",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 75,
+          "name": "القارئ محمود خليل الحصري (ورش)",
           "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh"
         },
         {
-          "id": 79,
-          "name": " إذاعة مشاري العفاسي",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 76,
+          "name": "القارئ محمود علي البنا",
+          "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna"
+        },
+        {
+          "id": 77,
+          "name": "القارئ مشاري العفاسي",
           "url": "https://backup.qurango.net/radio/mishary_alafasi"
         },
         {
-          "id": 80,
-          "name": " إذاعة مصطفى إسماعيل",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 78,
+          "name": "القارئ مصطفى إسماعيل",
           "url": "https://backup.qurango.net/radio/mustafa_ismail"
         },
         {
-          "id": 81,
-          "name": " إذاعة مصطفى اللاهوني",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 79,
+          "name": "القارئ مصطفى اللاهوني",
           "url": "https://backup.qurango.net/radio/mustafa_allahoni"
         },
         {
-          "id": 83,
-          "name": " إذاعة مفتاح السلطني",
-          "recent_date": "2020-04-25 22:04:05",
-          "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr "
+          "id": 80,
+          "name": "القارئ مصطفى رعد العزاوي",
+          "url": "https://backup.qurango.net/radio/mustafa_raad_alazawy"
         },
         {
-          "id": 85,
-          "name": " إذاعة محمود الشيمي",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 81,
+          "name": "القارئ مفتاح السلطني (الدوري عن أبي عمرو)",
+          "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr"
+        },
+        {
+          "id": 82,
+          "name": "القارئ ماهر شخاشيرو",
+          "url": "https://backup.qurango.net/radio/maher_shakhashero"
+        },
+        {
+          "id": 83,
+          "name": "القارئ محمود الشيمي",
           "url": "https://backup.qurango.net/radio/mahmood_alsheimy"
         },
         {
-          "id": 86,
-          "name": " إذاعة خالد المهنا",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 84,
+          "name": "القارئ خالد المهنا",
           "url": "https://backup.qurango.net/radio/khalid_almohana"
         },
         {
-          "id": 88,
-          "name": " إذاعة موسى بلال",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 85,
+          "name": "القارئ عادل الكلباني",
+          "url": "https://backup.qurango.net/radio/adel_alkhalbany"
+        },
+        {
+          "id": 86,
+          "name": "القارئ موسى بلال",
           "url": "https://backup.qurango.net/radio/mousa_bilal"
         },
         {
-          "id": 89,
-          "name": "حاتم فريد الواعر",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 87,
+          "name": "القارئ حاتم فريد الواعر",
           "url": "https://backup.qurango.net/radio/hatem_fareed_alwaer"
         },
         {
-          "id": 91,
-          "name": " إذاعة ابراهيم الدوسري",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 88,
+          "name": "القارئ محمود الرفاعي",
+          "url": "https://backup.qurango.net/radio/mahmood_al_rifai"
+        },
+        {
+          "id": 89,
+          "name": "القارئ ابراهيم الدوسري",
           "url": "https://backup.qurango.net/radio/ibrahim_aldosari"
         },
         {
-          "id": 93,
-          "name": " إذاعة جمعان العصيمي",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 90,
+          "name": "القارئ مفتاح السلطني (الدوري)",
+          "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai"
+        },
+        {
+          "id": 91,
+          "name": "القارئ جمعان العصيمي",
           "url": "https://backup.qurango.net/radio/jamaan_alosaimi"
         },
         {
-          "id": 95,
-          "name": " إذاعة يوسف بن نوح أحمد",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 92,
+          "name": "القارئ مفتاح السلطني",
+          "url": "https://backup.qurango.net/radio/muftah_alsaltany"
+        },
+        {
+          "id": 93,
+          "name": "القارئ يوسف بن نوح أحمد",
           "url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad"
         },
         {
-          "id": 96,
-          "name": " إذاعة مفتاح السلطني",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 94,
+          "name": "القارئ مفتاح السلطني (ابن ذكوان عن ابن عامر)",
           "url": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr"
         },
         {
-          "id": 99,
-          "name": " إذاعة أحمد خضر الطرابلسي",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 95,
+          "name": "القارئ معيض الحارثي",
+          "url": "https://backup.qurango.net/radio/moeedh_alharthi"
+        },
+        {
+          "id": 96,
+          "name": "القارئ محمد رشاد الشريف",
+          "url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef"
+        },
+        {
+          "id": 97,
+          "name": "القارئ أحمد خضر الطرابلسي",
           "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
         },
         {
-          "id": 100,
-          "name": " إذاعة أحمد الطرابلسي",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 98,
+          "name": "القارئ أحمد الطرابلسي",
           "url": "https://backup.qurango.net/radio/ahmed_altrabulsi"
         },
         {
-          "id": 102,
-          "name": " إذاعة أحمد عامر",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 99,
+          "name": "القارئ عبدالله الكندري",
+          "url": "https://backup.qurango.net/radio/abdullah_alkandari"
+        },
+        {
+          "id": 100,
+          "name": "القارئ أحمد عامر",
           "url": "https://backup.qurango.net/radio/ahmed_amer"
         },
         {
-          "id": 104,
-          "name": " إذاعة الدوكالي محمد العالم",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 101,
+          "name": "القارئ محمد عثمان خان",
+          "url": "https://backup.qurango.net/radio/mohammed_osman_khan"
+        },
+        {
+          "id": 102,
+          "name": "القارئ الدوكالي محمد العالم",
           "url": "https://backup.qurango.net/radio/addokali_mohammad_alalim"
         },
         {
-          "id": 105,
-          "name": " إذاعة محمد عبدالكريم",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 103,
+          "name": "القارئ محمد عبدالكريم (العصباني)",
           "url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani"
         },
         {
-          "id": 106,
-          "name": " إذاعة الفاتح محمد الزبير",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 104,
+          "name": "القارئ الفاتح محمد الزبير",
           "url": "https://backup.qurango.net/radio/alfateh_alzubair"
         },
         {
-          "id": 107,
-          "name": " إذاعة طارق عبدالغني دعوب",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 105,
+          "name": "القارئ طارق عبدالغني دعوب",
           "url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob"
         },
         {
-          "id": 109,
-          "name": "إذاعة -تلاوات خاشعة-",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 106,
+          "name": "إذاعة متنوعة للقراء",
+          "url": "https://backup.qurango.net/radio/mix"
+        },
+        {
+          "id": 107,
+          "name": "تلاوات خاشعة",
           "url": "https://backup.qurango.net/radio/salma"
         },
         {
-          "id": 110,
-          "name": "إذاعة تكبيرات العيد",
-          "recent_date": "2020-06-27 02:41:26",
+          "id": 108,
+          "name": "تكبيرات العيد",
           "url": "https://backup.qurango.net/radio/eid"
         },
         {
-          "id": 111,
-          "name": " إذاعة عبدالرحمن الماجد",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 109,
+          "name": "القارئ عبدالرحمن الماجد",
           "url": "https://backup.qurango.net/radio/abdulrahman_almajed"
         },
         {
-          "id": 113,
-          "name": "إذاعة الفتاوى العامة",
-          "recent_date": "2020-06-27 02:39:55",
+          "id": 110,
+          "name": "الإذاعة العامة - الفتاوى",
           "url": "https://backup.qurango.net/radio/fatwa"
         },
         {
-          "id": 114,
-          "name": "إذاعة الرقية الشرعية",
-          "recent_date": "2020-06-27 02:38:21",
+          "id": 111,
+          "name": "الرقية الشرعية",
           "url": "https://backup.qurango.net/radio/roqiah"
         },
         {
-          "id": 115,
-          "name": "إذاعة ---سورة البقرة - لعدد من القراء---",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 112,
+          "name": "سورة البقرة - لقراء مختلفين",
           "url": "https://backup.qurango.net/radio/albaqarah"
         },
         {
-          "id": 116,
-          "name": "إذاعة --تفسير القران الكريم--",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 113,
+          "name": "تفسير القرآن الكريم",
           "url": "https://backup.qurango.net/radio/tafseer"
         },
         {
-          "id": 117,
-          "name": "إذاعة خالد الجليل",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 114,
+          "name": "القارئ خالد الجليل",
           "url": "https://backup.qurango.net/radio/khalid_aljileel"
         },
         {
-          "id": 119,
-          "name": "إذاعة هيثم الجدعاني",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 115,
+          "name": "القارئ ناصر الماجد",
+          "url": "https://backup.qurango.net/radio/nasser_almajed"
+        },
+        {
+          "id": 116,
+          "name": "القارئ هيثم الجدعاني",
           "url": "https://backup.qurango.net/radio/hitham_aljadani"
         },
         {
-          "id": 120,
-          "name": "إذاعة أحمد خليل شاهين",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 117,
+          "name": "القارئ أحمد خليل شاهين",
           "url": "https://backup.qurango.net/radio/ahmad_shaheen"
         },
         {
-          "id": 121,
-          "name": "إذاعة عبدالله الموسى",
-          "recent_date": "2020-06-27 02:46:31",
+          "id": 118,
+          "name": "القارئ عبدالله الموسى",
           "url": "https://backup.qurango.net/radio/abdullah_almousa"
         },
         {
-          "id": 122,
-          "name": "إذاعة عبدالله الخلف",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 119,
+          "name": "القارئ عبدالله الخلف",
           "url": "https://backup.qurango.net/radio/abdullah_alkhalaf"
         },
         {
-          "id": 123,
-          "name": "-تراتيل قصيرة متميزة-",
-          "recent_date": "2020-04-25 22:04:05",
+          "id": 120,
+          "name": "تراتيل قصيرة متميزة",
           "url": "https://backup.qurango.net/radio/tarateel"
         },
         {
-          "id": 139,
-          "name": "إذاعة ماجد الزامل",
-          "recent_date": "2020-06-27 01:43:46",
+          "id": 121,
+          "name": "القارئ ماجد الزامل",
           "url": "https://backup.qurango.net/radio/majed_alzamel"
         },
         {
-          "id": 217,
-          "name": "إذاعة بندر بليلة",
-          "recent_date": "2021-09-06 22:14:27",
+          "id": 122,
+          "name": "القارئ بندر بليلة",
           "url": "https://backup.qurango.net/radio/bandar_balilah"
         },
         {
-          "id": 248,
-          "name": "إذاعة ناصر العصفور",
-          "recent_date": "2020-05-05 02:27:02",
+          "id": 123,
+          "name": "القارئ ناصر العصفور",
           "url": "https://backup.qurango.net/radio/nasser_alosfor"
         },
         {
-          "id": 265,
-          "name": "إذاعة أحمد ديبان",
-          "recent_date": "2020-06-27 01:46:13",
+          "id": 124,
+          "name": "القارئ محمد أيوب (قراءة متميزة)",
+          "url": "https://backup.qurango.net/radio/ayyoub2"
+        },
+        {
+          "id": 125,
+          "name": "القارئ أحمد ديبان",
           "url": "https://backup.qurango.net/radio/ahmad_deban"
         },
         {
-          "id": 274,
-          "name": "أذاعة محمد أبوسنينة",
-          "recent_date": "2022-08-17 16:40:49",
+          "id": 126,
+          "name": "القارئ محمد أبوسنينة",
           "url": "https://backup.qurango.net/radio/sneineh"
         },
         {
-          "id": 275,
-          "name": "إذاعة محمد الأمين قنيوة",
-          "recent_date": "2022-08-17 16:44:08",
+          "id": 127,
+          "name": "القارئ محمد الأمين قنيوة",
           "url": "https://backup.qurango.net/radio/qeniwa"
         },
         {
-          "id": 287,
-          "name": "إذاعة عبدالرحمن الشحات",
-          "recent_date": "2022-09-20 17:28:01",
+          "id": 128,
+          "name": "القارئ عبدالرحمن الشحات",
           "url": "https://backup.qurango.net/radio/a_alshahhat"
         },
         {
-          "id": 307,
-          "name": "عبدالعزيز سحيم",
-          "recent_date": "2023-10-11 04:18:00",
+          "id": 129,
+          "name": "القارئ عبدالعزيز سحيم",
           "url": "https://backup.qurango.net/radio/a_sheim"
         },
         {
-          "id": 10902,
-          "name": "آيات السكينة",
-          "recent_date": "2020-07-17 14:39:15",
+          "id": 130,
+          "name": "إذاعة آيات السكينة",
           "url": "https://backup.qurango.net/radio/sakeenah"
         },
         {
-          "id": 10903,
-          "name": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
-          "recent_date": "2020-07-17 14:40:45",
+          "id": 131,
+          "name": "صور من حياة الصحابة",
           "url": "https://backup.qurango.net/radio/sahabah"
         },
         {
-          "id": 10907,
+          "id": 132,
+          "name": "المختصر في تفسير القرآن الكريم",
+          "url": "https://backup.qurango.net/radio/mukhtasartafsir"
+        },
+        {
+          "id": 133,
+          "name": "أذكار الصباح",
+          "url": "https://backup.qurango.net/radio/athkar_sabah"
+        },
+        {
+          "id": 134,
           "name": "أذكار المساء",
-          "recent_date": "2021-08-27 12:49:07",
           "url": "https://backup.qurango.net/radio/athkar_masa"
         },
         {
-          "id": 21114,
-          "name": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
-          "recent_date": "2021-09-27 01:36:41",
+          "id": 135,
+          "name": "في ظلال السيرة النبوية",
           "url": "https://backup.qurango.net/radio/fi_zilal_alsiyra"
         },
         {
-          "id": 21115,
+          "id": 136,
           "name": "المختصر في السيرة النبوية",
-          "recent_date": "2025-05-30 11:38:35",
           "url": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra"
         },
         {
-          "id": 21116,
-          "name": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
-          "recent_date": "2022-02-13 23:48:06",
+          "id": 137,
+          "name": "كتاب الاختيارات الفقهية",
           "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz"
         },
         {
-          "id": 21117,
-          "name": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
-          "recent_date": "2023-12-02 20:42:00",
-          "url": "https://backup.qurango.net/radio/tabri"
-        },
-        {
-          "id": 109038,
-          "name": "صالح الهبدان",
-          "recent_date": "2020-06-27 01:47:04",
+          "id": 139,
+          "name": "القارئ صالح الهبدان",
           "url": "https://backup.qurango.net/radio/saleh_alhabdan"
         },
         {
-          "id": 109039,
-          "name": "ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد",
-          "recent_date": "2024-04-13 04:18:10",
-          "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit"
+          "id": 164,
+          "name": "ترجمة القرآن باللغة الفارسية - أهل القرآن",
+          "url": "https://backup.qurango.net/radio/farsi-trans"
         },
         {
-          "id": 109040,
-          "name": "ترجمة معاني القرآن باللغة الأسبانية",
-          "recent_date": "2024-04-13 04:21:03",
-          "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+          "id": 165,
+          "name": "تدبر معاني القرآن باللغة الفارسية",
+          "url": "https://backup.qurango.net/radio/farsi-tadabor"
         },
         {
-          "id": 109041,
-          "name": "ترجمة معاني القرآن باللغة الألبانية",
-          "recent_date": "2024-04-13 04:22:03",
-          "url": "https://backup.qurango.net/radio/translation_quran_albanian"
-        },
-        {
-          "id": 109042,
-          "name": "ترجمة معاني القرآن باللغة الألمانية",
-          "recent_date": "2024-04-13 04:23:33",
-          "url": "https://backup.qurango.net/radio/translation_quran_german"
-        },
-        {
-          "id": 109043,
-          "name": "ترجمة معاني القرآن باللغة الأمازيغية",
-          "recent_date": "2024-04-13 04:25:33",
-          "url": "https://backup.qurango.net/radio/translation_quran_tamazight"
-        },
-        {
-          "id": 109044,
-          "name": "ترجمة معاني القرآن باللغة الأوردية",
-          "recent_date": "2024-04-13 04:26:22",
-          "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur"
-        },
-        {
-          "id": 109045,
-          "name": "ترجمة معاني القرآن باللغة الأوردية",
-          "recent_date": "2024-04-13 04:27:09",
-          "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh"
-        },
-        {
-          "id": 109046,
-          "name": "ترجمة معاني القرآن باللغة الإنجليزية",
-          "recent_date": "2024-04-13 04:28:32",
-          "url": "https://backup.qurango.net/radio/translation_quran_english_basit"
-        },
-        {
-          "id": 109049,
-          "name": "ترجمة معاني القرآن باللغة البرتغالية",
-          "recent_date": "2024-04-13 04:31:18",
-          "url": "https://backup.qurango.net/radio/translation_quran_portuguese"
-        },
-        {
-          "id": 109050,
-          "name": "ترجمة معاني القرآن باللغة البوسنية",
-          "recent_date": "2024-04-13 04:32:27",
-          "url": "https://backup.qurango.net/radio/translation_quran_bosnia"
-        },
-        {
-          "id": 109051,
-          "name": "ترجمة معاني القرآن باللغة التركية",
-          "recent_date": "2024-04-13 04:33:38",
-          "url": "https://backup.qurango.net/radio/translation_quran_turkish"
-        },
-        {
-          "id": 109052,
-          "name": "ترجمة معاني القرآن باللغة الروسية",
-          "recent_date": "2024-04-13 04:35:33",
-          "url": "https://backup.qurango.net/radio/translation_quran_Russia"
-        },
-        {
-          "id": 109053,
-          "name": "ترجمة معاني القرآن باللغة الصينية",
-          "recent_date": "2024-04-13 04:36:48",
-          "url": "https://backup.qurango.net/radio/translation_quran_chinese"
-        },
-        {
-          "id": 109054,
-          "name": "ترجمة معاني القرآن باللغة الفارسية",
-          "recent_date": "2024-04-13 05:07:34",
-          "url": "https://backup.qurango.net/radio/translation_quran_farsi"
-        },
-        {
-          "id": 109056,
-          "name": "ترجمة معاني القرآن باللغة الكردية",
-          "recent_date": "2024-04-13 05:10:28",
-          "url": "https://backup.qurango.net/radio/translation_quran_kurdish"
-        },
-        {
-          "id": 109058,
-          "name": "ترجمة معاني القرآن باللغة المجرية",
-          "recent_date": "2024-04-13 05:16:54",
-          "url": "https://backup.qurango.net/radio/translation_quran_hungarian"
-        },
-        {
-          "id": 109059,
-          "name": "ترجمة معاني القرآن باللغة اليونانية",
-          "recent_date": "2024-04-13 05:17:34",
-          "url": "https://backup.qurango.net/radio/translation_quran_greek"
-        },
-        {
-          "id": 109060,
-          "name": "سورة الملك",
-          "recent_date": "2024-04-13 05:32:01",
-          "url": "https://backup.qurango.net/radio/Surah_Al-Mulk"
-        },
-        {
-          "id": 109061,
-          "name": "فضل شهر رمضان",
-          "recent_date": "2024-04-13 05:33:01",
-          "url": "https://backup.qurango.net/radio/ramadan"
-        },
-        {
-          "id": 109066,
+          "id": 166,
           "name": "صحيح مسلم",
-          "recent_date": "2025-05-20 18:30:06",
           "url": "https://backup.qurango.net/radio/saheh-muslim"
         },
         {
-          "id": 109069,
-          "name": "***قصص الأنبياء***",
-          "recent_date": "2025-07-04 18:34:32",
-          "url": "https://backup.qurango.net/radio/alanbiya"
-        },
-        {
-          "id": 109073,
+          "id": 169,
           "name": "رياض الصالحين",
-          "recent_date": "2025-07-20 13:36:55",
           "url": "https://backup.qurango.net/radio/riyad"
         },
         {
-          "id": 109074,
-          "name": "عبدالله البعيجان",
-          "recent_date": "2025-07-20 19:47:08",
+          "id": 170,
+          "name": "القارئ عبدالله البعيجان",
           "url": "https://backup.qurango.net/radio/buajan"
         },
         {
-          "id": 109075,
-          "name": "أحمد طالب بن حميد",
-          "recent_date": "2025-07-20 19:54:30",
+          "id": 171,
+          "name": "القارئ أحمد طالب بن حميد",
           "url": "https://backup.qurango.net/radio/a_binhameed"
+        },
+        {
+          "id": 173,
+          "name": "القارئ بدر التركي",
+          "url": "https://backup.qurango.net/radio/bader"
         }
       ]
     },
