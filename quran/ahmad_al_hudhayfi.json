@@ -1,0 +1,446 @@
+{
+   "name": "أحمد الحذيفي",
+   "Sheikh's photo": "https://i.ytimg.com/vi/L6RiY_kG2tM/hqdefault.jpg",
+   "surahs": [
+      {
+         "name": "سورة الفاتحة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/001.mp3"
+      },
+      {
+         "name": "سورة البقرة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/002.mp3"
+      },
+      {
+         "name": "سورة آل عمران",
+         "link": "https://server8.mp3quran.net/ahmad_huth/003.mp3"
+      },
+      {
+         "name": "سورة النساء",
+         "link": "https://server8.mp3quran.net/ahmad_huth/004.mp3"
+      },
+      {
+         "name": "سورة المائدة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/005.mp3"
+      },
+      {
+         "name": "سورة الأنعام",
+         "link": "https://server8.mp3quran.net/ahmad_huth/006.mp3"
+      },
+      {
+         "name": "سورة الأعراف",
+         "link": "https://server8.mp3quran.net/ahmad_huth/007.mp3"
+      },
+      {
+         "name": "سورة الأنفال",
+         "link": "https://server8.mp3quran.net/ahmad_huth/008.mp3"
+      },
+      {
+         "name": "سورة التوبة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/009.mp3"
+      },
+      {
+         "name": "سورة يونس",
+         "link": "https://server8.mp3quran.net/ahmad_huth/010.mp3"
+      },
+      {
+         "name": "سورة هود",
+         "link": "https://server8.mp3quran.net/ahmad_huth/011.mp3"
+      },
+      {
+         "name": "سورة يوسف",
+         "link": "https://server8.mp3quran.net/ahmad_huth/012.mp3"
+      },
+      {
+         "name": "سورة الرعد",
+         "link": "https://server8.mp3quran.net/ahmad_huth/013.mp3"
+      },
+      {
+         "name": "سورة إبراهيم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/014.mp3"
+      },
+      {
+         "name": "سورة الحجر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/015.mp3"
+      },
+      {
+         "name": "سورة النحل",
+         "link": "https://server8.mp3quran.net/ahmad_huth/016.mp3"
+      },
+      {
+         "name": "سورة الإسراء",
+         "link": "https://server8.mp3quran.net/ahmad_huth/017.mp3"
+      },
+      {
+         "name": "سورة الكهف",
+         "link": "https://server8.mp3quran.net/ahmad_huth/018.mp3"
+      },
+      {
+         "name": "سورة مريم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/019.mp3"
+      },
+      {
+         "name": "سورة طه",
+         "link": "https://server8.mp3quran.net/ahmad_huth/020.mp3"
+      },
+      {
+         "name": "سورة الأنبياء",
+         "link": "https://server8.mp3quran.net/ahmad_huth/021.mp3"
+      },
+      {
+         "name": "سورة الحج",
+         "link": "https://server8.mp3quran.net/ahmad_huth/022.mp3"
+      },
+      {
+         "name": "سورة المؤمنون",
+         "link": "https://server8.mp3quran.net/ahmad_huth/023.mp3"
+      },
+      {
+         "name": "سورة النور",
+         "link": "https://server8.mp3quran.net/ahmad_huth/024.mp3"
+      },
+      {
+         "name": "سورة الفرقان",
+         "link": "https://server8.mp3quran.net/ahmad_huth/025.mp3"
+      },
+      {
+         "name": "سورة الشعراء",
+         "link": "https://server8.mp3quran.net/ahmad_huth/026.mp3"
+      },
+      {
+         "name": "سورة النمل",
+         "link": "https://server8.mp3quran.net/ahmad_huth/027.mp3"
+      },
+      {
+         "name": "سورة القصص",
+         "link": "https://server8.mp3quran.net/ahmad_huth/028.mp3"
+      },
+      {
+         "name": "سورة العنكبوت",
+         "link": "https://server8.mp3quran.net/ahmad_huth/029.mp3"
+      },
+      {
+         "name": "سورة الروم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/030.mp3"
+      },
+      {
+         "name": "سورة لقمان",
+         "link": "https://server8.mp3quran.net/ahmad_huth/031.mp3"
+      },
+      {
+         "name": "سورة السجدة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/032.mp3"
+      },
+      {
+         "name": "سورة سبأ",
+         "link": "https://server8.mp3quran.net/ahmad_huth/034.mp3"
+      },
+      {
+         "name": "سورة فاطر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/035.mp3"
+      },
+      {
+         "name": "سورة يس",
+         "link": "https://server8.mp3quran.net/ahmad_huth/036.mp3"
+      },
+      {
+         "name": "سورة ص",
+         "link": "https://server8.mp3quran.net/ahmad_huth/038.mp3"
+      },
+      {
+         "name": "سورة الزمر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/039.mp3"
+      },
+      {
+         "name": "سورة فصلت",
+         "link": "https://server8.mp3quran.net/ahmad_huth/041.mp3"
+      },
+      {
+         "name": "سورة الشورى",
+         "link": "https://server8.mp3quran.net/ahmad_huth/042.mp3"
+      },
+      {
+         "name": "سورة الزخرف",
+         "link": "https://server8.mp3quran.net/ahmad_huth/043.mp3"
+      },
+      {
+         "name": "سورة الدخان",
+         "link": "https://server8.mp3quran.net/ahmad_huth/044.mp3"
+      },
+      {
+         "name": "سورة الجاثية",
+         "link": "https://server8.mp3quran.net/ahmad_huth/045.mp3"
+      },
+      {
+         "name": "سورة محمد",
+         "link": "https://server8.mp3quran.net/ahmad_huth/047.mp3"
+      },
+      {
+         "name": "سورة الفتح",
+         "link": "https://server8.mp3quran.net/ahmad_huth/048.mp3"
+      },
+      {
+         "name": "سورة الحجرات",
+         "link": "https://server8.mp3quran.net/ahmad_huth/049.mp3"
+      },
+      {
+         "name": "سورة ق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/050.mp3"
+      },
+      {
+         "name": "سورة الذاريات",
+         "link": "https://server8.mp3quran.net/ahmad_huth/051.mp3"
+      },
+      {
+         "name": "سورة الطور",
+         "link": "https://server8.mp3quran.net/ahmad_huth/052.mp3"
+      },
+      {
+         "name": "سورة النجم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/053.mp3"
+      },
+      {
+         "name": "سورة القمر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/054.mp3"
+      },
+      {
+         "name": "سورة الرحمن",
+         "link": "https://server8.mp3quran.net/ahmad_huth/055.mp3"
+      },
+      {
+         "name": "سورة الواقعة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/056.mp3"
+      },
+      {
+         "name": "سورة الحديد",
+         "link": "https://server8.mp3quran.net/ahmad_huth/057.mp3"
+      },
+      {
+         "name": "سورة المجادلة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/058.mp3"
+      },
+      {
+         "name": "سورة الحشر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/059.mp3"
+      },
+      {
+         "name": "سورة الممتحنة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/060.mp3"
+      },
+      {
+         "name": "سورة الصف",
+         "link": "https://server8.mp3quran.net/ahmad_huth/061.mp3"
+      },
+      {
+         "name": "سورة الجمعة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/062.mp3"
+      },
+      {
+         "name": "سورة المنافقون",
+         "link": "https://server8.mp3quran.net/ahmad_huth/063.mp3"
+      },
+      {
+         "name": "سورة التغابن",
+         "link": "https://server8.mp3quran.net/ahmad_huth/064.mp3"
+      },
+      {
+         "name": "سورة الطلاق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/065.mp3"
+      },
+      {
+         "name": "سورة التحريم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/066.mp3"
+      },
+      {
+         "name": "سورة الملك",
+         "link": "https://server8.mp3quran.net/ahmad_huth/067.mp3"
+      },
+      {
+         "name": "سورة القلم",
+         "link": "https://server8.mp3quran.net/ahmad_huth/068.mp3"
+      },
+      {
+         "name": "سورة الحاقة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/069.mp3"
+      },
+      {
+         "name": "سورة المعارج",
+         "link": "https://server8.mp3quran.net/ahmad_huth/070.mp3"
+      },
+      {
+         "name": "سورة نوح",
+         "link": "https://server8.mp3quran.net/ahmad_huth/071.mp3"
+      },
+      {
+         "name": "سورة الجن",
+         "link": "https://server8.mp3quran.net/ahmad_huth/072.mp3"
+      },
+      {
+         "name": "سورة المزمل",
+         "link": "https://server8.mp3quran.net/ahmad_huth/073.mp3"
+      },
+      {
+         "name": "سورة المدثر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/074.mp3"
+      },
+      {
+         "name": "سورة القيامة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/075.mp3"
+      },
+      {
+         "name": "سورة الإنسان",
+         "link": "https://server8.mp3quran.net/ahmad_huth/076.mp3"
+      },
+      {
+         "name": "سورة المرسلات",
+         "link": "https://server8.mp3quran.net/ahmad_huth/077.mp3"
+      },
+      {
+         "name": "سورة النبأ",
+         "link": "https://server8.mp3quran.net/ahmad_huth/078.mp3"
+      },
+      {
+         "name": "سورة النازعات",
+         "link": "https://server8.mp3quran.net/ahmad_huth/079.mp3"
+      },
+      {
+         "name": "سورة عبس",
+         "link": "https://server8.mp3quran.net/ahmad_huth/080.mp3"
+      },
+      {
+         "name": "سورة التكوير",
+         "link": "https://server8.mp3quran.net/ahmad_huth/081.mp3"
+      },
+      {
+         "name": "سورة الإنفطار",
+         "link": "https://server8.mp3quran.net/ahmad_huth/082.mp3"
+      },
+      {
+         "name": "سورة المطففين",
+         "link": "https://server8.mp3quran.net/ahmad_huth/083.mp3"
+      },
+      {
+         "name": "سورة الإنشقاق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/084.mp3"
+      },
+      {
+         "name": "سورة البروج",
+         "link": "https://server8.mp3quran.net/ahmad_huth/085.mp3"
+      },
+      {
+         "name": "سورة الطارق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/086.mp3"
+      },
+      {
+         "name": "سورة الأعلى",
+         "link": "https://server8.mp3quran.net/ahmad_huth/087.mp3"
+      },
+      {
+         "name": "سورة الغاشية",
+         "link": "https://server8.mp3quran.net/ahmad_huth/088.mp3"
+      },
+      {
+         "name": "سورة الفجر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/089.mp3"
+      },
+      {
+         "name": "سورة البلد",
+         "link": "https://server8.mp3quran.net/ahmad_huth/090.mp3"
+      },
+      {
+         "name": "سورة الشمس",
+         "link": "https://server8.mp3quran.net/ahmad_huth/091.mp3"
+      },
+      {
+         "name": "سورة الليل",
+         "link": "https://server8.mp3quran.net/ahmad_huth/092.mp3"
+      },
+      {
+         "name": "سورة الضحى",
+         "link": "https://server8.mp3quran.net/ahmad_huth/093.mp3"
+      },
+      {
+         "name": "سورة الشرح",
+         "link": "https://server8.mp3quran.net/ahmad_huth/094.mp3"
+      },
+      {
+         "name": "سورة التين",
+         "link": "https://server8.mp3quran.net/ahmad_huth/095.mp3"
+      },
+      {
+         "name": "سورة العلق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/096.mp3"
+      },
+      {
+         "name": "سورة القدر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/097.mp3"
+      },
+      {
+         "name": "سورة البينة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/098.mp3"
+      },
+      {
+         "name": "سورة الزلزلة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/099.mp3"
+      },
+      {
+         "name": "سورة العاديات",
+         "link": "https://server8.mp3quran.net/ahmad_huth/100.mp3"
+      },
+      {
+         "name": "سورة القارعة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/101.mp3"
+      },
+      {
+         "name": "سورة التكاثر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/102.mp3"
+      },
+      {
+         "name": "سورة العصر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/103.mp3"
+      },
+      {
+         "name": "سورة الهمزة",
+         "link": "https://server8.mp3quran.net/ahmad_huth/104.mp3"
+      },
+      {
+         "name": "سورة الفيل",
+         "link": "https://server8.mp3quran.net/ahmad_huth/105.mp3"
+      },
+      {
+         "name": "سورة قريش",
+         "link": "https://server8.mp3quran.net/ahmad_huth/106.mp3"
+      },
+      {
+         "name": "سورة الماعون",
+         "link": "https://server8.mp3quran.net/ahmad_huth/107.mp3"
+      },
+      {
+         "name": "سورة الكوثر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/108.mp3"
+      },
+      {
+         "name": "سورة الكافرون",
+         "link": "https://server8.mp3quran.net/ahmad_huth/109.mp3"
+      },
+      {
+         "name": "سورة النصر",
+         "link": "https://server8.mp3quran.net/ahmad_huth/110.mp3"
+      },
+      {
+         "name": "سورة المسد",
+         "link": "https://server8.mp3quran.net/ahmad_huth/111.mp3"
+      },
+      {
+         "name": "سورة الإخلاص",
+         "link": "https://server8.mp3quran.net/ahmad_huth/112.mp3"
+      },
+      {
+         "name": "سورة الفلق",
+         "link": "https://server8.mp3quran.net/ahmad_huth/113.mp3"
+      },
+      {
+         "name": "سورة الناس",
+         "link": "https://server8.mp3quran.net/ahmad_huth/114.mp3"
+      }
+   ]
+}

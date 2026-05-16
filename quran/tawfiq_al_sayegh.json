@@ -1,0 +1,462 @@
+{
+   "name": "توفيق الصايغ",
+   "Sheikh's photo": "https://www.assabile.com/media/photo/full_size/tawfik-as-sayegh-164.jpg",
+   "surahs": [
+      {
+         "name": "سورة الفاتحة",
+         "link": "https://server6.mp3quran.net/twfeeq/001.mp3"
+      },
+      {
+         "name": "سورة البقرة",
+         "link": "https://server6.mp3quran.net/twfeeq/002.mp3"
+      },
+      {
+         "name": "سورة آل عمران",
+         "link": "https://server6.mp3quran.net/twfeeq/003.mp3"
+      },
+      {
+         "name": "سورة النساء",
+         "link": "https://server6.mp3quran.net/twfeeq/004.mp3"
+      },
+      {
+         "name": "سورة المائدة",
+         "link": "https://server6.mp3quran.net/twfeeq/005.mp3"
+      },
+      {
+         "name": "سورة الأنعام",
+         "link": "https://server6.mp3quran.net/twfeeq/006.mp3"
+      },
+      {
+         "name": "سورة الأعراف",
+         "link": "https://server6.mp3quran.net/twfeeq/007.mp3"
+      },
+      {
+         "name": "سورة الأنفال",
+         "link": "https://server6.mp3quran.net/twfeeq/008.mp3"
+      },
+      {
+         "name": "سورة التوبة",
+         "link": "https://server6.mp3quran.net/twfeeq/009.mp3"
+      },
+      {
+         "name": "سورة يونس",
+         "link": "https://server6.mp3quran.net/twfeeq/010.mp3"
+      },
+      {
+         "name": "سورة هود",
+         "link": "https://server6.mp3quran.net/twfeeq/011.mp3"
+      },
+      {
+         "name": "سورة يوسف",
+         "link": "https://server6.mp3quran.net/twfeeq/012.mp3"
+      },
+      {
+         "name": "سورة الرعد",
+         "link": "https://server6.mp3quran.net/twfeeq/013.mp3"
+      },
+      {
+         "name": "سورة إبراهيم",
+         "link": "https://server6.mp3quran.net/twfeeq/014.mp3"
+      },
+      {
+         "name": "سورة الحجر",
+         "link": "https://server6.mp3quran.net/twfeeq/015.mp3"
+      },
+      {
+         "name": "سورة النحل",
+         "link": "https://server6.mp3quran.net/twfeeq/016.mp3"
+      },
+      {
+         "name": "سورة الإسراء",
+         "link": "https://server6.mp3quran.net/twfeeq/017.mp3"
+      },
+      {
+         "name": "سورة الكهف",
+         "link": "https://server6.mp3quran.net/twfeeq/018.mp3"
+      },
+      {
+         "name": "سورة مريم",
+         "link": "https://server6.mp3quran.net/twfeeq/019.mp3"
+      },
+      {
+         "name": "سورة طه",
+         "link": "https://server6.mp3quran.net/twfeeq/020.mp3"
+      },
+      {
+         "name": "سورة الأنبياء",
+         "link": "https://server6.mp3quran.net/twfeeq/021.mp3"
+      },
+      {
+         "name": "سورة الحج",
+         "link": "https://server6.mp3quran.net/twfeeq/022.mp3"
+      },
+      {
+         "name": "سورة المؤمنون",
+         "link": "https://server6.mp3quran.net/twfeeq/023.mp3"
+      },
+      {
+         "name": "سورة النور",
+         "link": "https://server6.mp3quran.net/twfeeq/024.mp3"
+      },
+      {
+         "name": "سورة الفرقان",
+         "link": "https://server6.mp3quran.net/twfeeq/025.mp3"
+      },
+      {
+         "name": "سورة الشعراء",
+         "link": "https://server6.mp3quran.net/twfeeq/026.mp3"
+      },
+      {
+         "name": "سورة النمل",
+         "link": "https://server6.mp3quran.net/twfeeq/027.mp3"
+      },
+      {
+         "name": "سورة القصص",
+         "link": "https://server6.mp3quran.net/twfeeq/028.mp3"
+      },
+      {
+         "name": "سورة العنكبوت",
+         "link": "https://server6.mp3quran.net/twfeeq/029.mp3"
+      },
+      {
+         "name": "سورة الروم",
+         "link": "https://server6.mp3quran.net/twfeeq/030.mp3"
+      },
+      {
+         "name": "سورة لقمان",
+         "link": "https://server6.mp3quran.net/twfeeq/031.mp3"
+      },
+      {
+         "name": "سورة السجدة",
+         "link": "https://server6.mp3quran.net/twfeeq/032.mp3"
+      },
+      {
+         "name": "سورة الأحزاب",
+         "link": "https://server6.mp3quran.net/twfeeq/033.mp3"
+      },
+      {
+         "name": "سورة سبأ",
+         "link": "https://server6.mp3quran.net/twfeeq/034.mp3"
+      },
+      {
+         "name": "سورة فاطر",
+         "link": "https://server6.mp3quran.net/twfeeq/035.mp3"
+      },
+      {
+         "name": "سورة يس",
+         "link": "https://server6.mp3quran.net/twfeeq/036.mp3"
+      },
+      {
+         "name": "سورة الصافات",
+         "link": "https://server6.mp3quran.net/twfeeq/037.mp3"
+      },
+      {
+         "name": "سورة ص",
+         "link": "https://server6.mp3quran.net/twfeeq/038.mp3"
+      },
+      {
+         "name": "سورة الزمر",
+         "link": "https://server6.mp3quran.net/twfeeq/039.mp3"
+      },
+      {
+         "name": "سورة غافر",
+         "link": "https://server6.mp3quran.net/twfeeq/040.mp3"
+      },
+      {
+         "name": "سورة فصلت",
+         "link": "https://server6.mp3quran.net/twfeeq/041.mp3"
+      },
+      {
+         "name": "سورة الشورى",
+         "link": "https://server6.mp3quran.net/twfeeq/042.mp3"
+      },
+      {
+         "name": "سورة الزخرف",
+         "link": "https://server6.mp3quran.net/twfeeq/043.mp3"
+      },
+      {
+         "name": "سورة الدّخان",
+         "link": "https://server6.mp3quran.net/twfeeq/044.mp3"
+      },
+      {
+         "name": "سورة الجاثية",
+         "link": "https://server6.mp3quran.net/twfeeq/045.mp3"
+      },
+      {
+         "name": "سورة الأحقاف",
+         "link": "https://server6.mp3quran.net/twfeeq/046.mp3"
+      },
+      {
+         "name": "سورة محمد",
+         "link": "https://server6.mp3quran.net/twfeeq/047.mp3"
+      },
+      {
+         "name": "سورة الفتح",
+         "link": "https://server6.mp3quran.net/twfeeq/048.mp3"
+      },
+      {
+         "name": "سورة الحجرات",
+         "link": "https://server6.mp3quran.net/twfeeq/049.mp3"
+      },
+      {
+         "name": "سورة ق",
+         "link": "https://server6.mp3quran.net/twfeeq/050.mp3"
+      },
+      {
+         "name": "سورة الذاريات",
+         "link": "https://server6.mp3quran.net/twfeeq/051.mp3"
+      },
+      {
+         "name": "سورة الطور",
+         "link": "https://server6.mp3quran.net/twfeeq/052.mp3"
+      },
+      {
+         "name": "سورة النجم",
+         "link": "https://server6.mp3quran.net/twfeeq/053.mp3"
+      },
+      {
+         "name": "سورة القمر",
+         "link": "https://server6.mp3quran.net/twfeeq/054.mp3"
+      },
+      {
+         "name": "سورة الرحمن",
+         "link": "https://server6.mp3quran.net/twfeeq/055.mp3"
+      },
+      {
+         "name": "سورة الواقعة",
+         "link": "https://server6.mp3quran.net/twfeeq/056.mp3"
+      },
+      {
+         "name": "سورة الحديد",
+         "link": "https://server6.mp3quran.net/twfeeq/057.mp3"
+      },
+      {
+         "name": "سورة المجادلة",
+         "link": "https://server6.mp3quran.net/twfeeq/058.mp3"
+      },
+      {
+         "name": "سورة الحشر",
+         "link": "https://server6.mp3quran.net/twfeeq/059.mp3"
+      },
+      {
+         "name": "سورة الممتحنة",
+         "link": "https://server6.mp3quran.net/twfeeq/060.mp3"
+      },
+      {
+         "name": "سورة الصف",
+         "link": "https://server6.mp3quran.net/twfeeq/061.mp3"
+      },
+      {
+         "name": "سورة الجمعة",
+         "link": "https://server6.mp3quran.net/twfeeq/062.mp3"
+      },
+      {
+         "name": "سورة المنافقون",
+         "link": "https://server6.mp3quran.net/twfeeq/063.mp3"
+      },
+      {
+         "name": "سورة التغابن",
+         "link": "https://server6.mp3quran.net/twfeeq/064.mp3"
+      },
+      {
+         "name": "سورة الطلاق",
+         "link": "https://server6.mp3quran.net/twfeeq/065.mp3"
+      },
+      {
+         "name": "سورة التحريم",
+         "link": "https://server6.mp3quran.net/twfeeq/066.mp3"
+      },
+      {
+         "name": "سورة الملك",
+         "link": "https://server6.mp3quran.net/twfeeq/067.mp3"
+      },
+      {
+         "name": "سورة القلم",
+         "link": "https://server6.mp3quran.net/twfeeq/068.mp3"
+      },
+      {
+         "name": "سورة الحاقة",
+         "link": "https://server6.mp3quran.net/twfeeq/069.mp3"
+      },
+      {
+         "name": "سورة المعارج",
+         "link": "https://server6.mp3quran.net/twfeeq/070.mp3"
+      },
+      {
+         "name": "سورة نوح",
+         "link": "https://server6.mp3quran.net/twfeeq/071.mp3"
+      },
+      {
+         "name": "سورة الجن",
+         "link": "https://server6.mp3quran.net/twfeeq/072.mp3"
+      },
+      {
+         "name": "سورة المزمل",
+         "link": "https://server6.mp3quran.net/twfeeq/073.mp3"
+      },
+      {
+         "name": "سورة المدثر",
+         "link": "https://server6.mp3quran.net/twfeeq/074.mp3"
+      },
+      {
+         "name": "سورة القيامة",
+         "link": "https://server6.mp3quran.net/twfeeq/075.mp3"
+      },
+      {
+         "name": "سورة الإنسان",
+         "link": "https://server6.mp3quran.net/twfeeq/076.mp3"
+      },
+      {
+         "name": "سورة المرسلات",
+         "link": "https://server6.mp3quran.net/twfeeq/077.mp3"
+      },
+      {
+         "name": "سورة النبأ",
+         "link": "https://server6.mp3quran.net/twfeeq/078.mp3"
+      },
+      {
+         "name": "سورة النازعات",
+         "link": "https://server6.mp3quran.net/twfeeq/079.mp3"
+      },
+      {
+         "name": "سورة عبس",
+         "link": "https://server6.mp3quran.net/twfeeq/080.mp3"
+      },
+      {
+         "name": "سورة التكوير",
+         "link": "https://server6.mp3quran.net/twfeeq/081.mp3"
+      },
+      {
+         "name": "سورة الإنفطار",
+         "link": "https://server6.mp3quran.net/twfeeq/082.mp3"
+      },
+      {
+         "name": "سورة المطففين",
+         "link": "https://server6.mp3quran.net/twfeeq/083.mp3"
+      },
+      {
+         "name": "سورة الإنشقاق",
+         "link": "https://server6.mp3quran.net/twfeeq/084.mp3"
+      },
+      {
+         "name": "سورة البروج",
+         "link": "https://server6.mp3quran.net/twfeeq/085.mp3"
+      },
+      {
+         "name": "سورة الطارق",
+         "link": "https://server6.mp3quran.net/twfeeq/086.mp3"
+      },
+      {
+         "name": "سورة الأعلى",
+         "link": "https://server6.mp3quran.net/twfeeq/087.mp3"
+      },
+      {
+         "name": "سورة الغاشية",
+         "link": "https://server6.mp3quran.net/twfeeq/088.mp3"
+      },
+      {
+         "name": "سورة الفجر",
+         "link": "https://server6.mp3quran.net/twfeeq/089.mp3"
+      },
+      {
+         "name": "سورة البلد",
+         "link": "https://server6.mp3quran.net/twfeeq/090.mp3"
+      },
+      {
+         "name": "سورة الشمس",
+         "link": "https://server6.mp3quran.net/twfeeq/091.mp3"
+      },
+      {
+         "name": "سورة الليل",
+         "link": "https://server6.mp3quran.net/twfeeq/092.mp3"
+      },
+      {
+         "name": "سورة الضحى",
+         "link": "https://server6.mp3quran.net/twfeeq/093.mp3"
+      },
+      {
+         "name": "سورة الشرح",
+         "link": "https://server6.mp3quran.net/twfeeq/094.mp3"
+      },
+      {
+         "name": "سورة التين",
+         "link": "https://server6.mp3quran.net/twfeeq/095.mp3"
+      },
+      {
+         "name": "سورة العلق",
+         "link": "https://server6.mp3quran.net/twfeeq/096.mp3"
+      },
+      {
+         "name": "سورة القدر",
+         "link": "https://server6.mp3quran.net/twfeeq/097.mp3"
+      },
+      {
+         "name": "سورة البينة",
+         "link": "https://server6.mp3quran.net/twfeeq/098.mp3"
+      },
+      {
+         "name": "سورة الزلزلة",
+         "link": "https://server6.mp3quran.net/twfeeq/099.mp3"
+      },
+      {
+         "name": "سورة العاديات",
+         "link": "https://server6.mp3quran.net/twfeeq/100.mp3"
+      },
+      {
+         "name": "سورة القارعة",
+         "link": "https://server6.mp3quran.net/twfeeq/101.mp3"
+      },
+      {
+         "name": "سورة التكاثر",
+         "link": "https://server6.mp3quran.net/twfeeq/102.mp3"
+      },
+      {
+         "name": "سورة العصر",
+         "link": "https://server6.mp3quran.net/twfeeq/103.mp3"
+      },
+      {
+         "name": "سورة الهمزة",
+         "link": "https://server6.mp3quran.net/twfeeq/104.mp3"
+      },
+      {
+         "name": "سورة الفيل",
+         "link": "https://server6.mp3quran.net/twfeeq/105.mp3"
+      },
+      {
+         "name": "سورة قريش",
+         "link": "https://server6.mp3quran.net/twfeeq/106.mp3"
+      },
+      {
+         "name": "سورة الماعون",
+         "link": "https://server6.mp3quran.net/twfeeq/107.mp3"
+      },
+      {
+         "name": "سورة الكوثر",
+         "link": "https://server6.mp3quran.net/twfeeq/108.mp3"
+      },
+      {
+         "name": "سورة الكافرون",
+         "link": "https://server6.mp3quran.net/twfeeq/109.mp3"
+      },
+      {
+         "name": "سورة النصر",
+         "link": "https://server6.mp3quran.net/twfeeq/110.mp3"
+      },
+      {
+         "name": "سورة المسد",
+         "link": "https://server6.mp3quran.net/twfeeq/111.mp3"
+      },
+      {
+         "name": "سورة الإخلاص",
+         "link": "https://server6.mp3quran.net/twfeeq/112.mp3"
+      },
+      {
+         "name": "سورة الفلق",
+         "link": "https://server6.mp3quran.net/twfeeq/113.mp3"
+      },
+      {
+         "name": "سورة الناس",
+         "link": "https://server6.mp3quran.net/twfeeq/114.mp3"
+      }
+   ]
+}

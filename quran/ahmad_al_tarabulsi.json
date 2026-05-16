@@ -1,0 +1,462 @@
+{
+   "name": "أحمد الطرابلسي",
+   "Sheikh's photo": "",
+   "surahs": [
+      {
+         "name": "سورة الفاتحة",
+         "link": "https://server10.mp3quran.net/trabulsi/001.mp3"
+      },
+      {
+         "name": "سورة البقرة",
+         "link": "https://server10.mp3quran.net/trabulsi/002.mp3"
+      },
+      {
+         "name": "سورة آل عمران",
+         "link": "https://server10.mp3quran.net/trabulsi/003.mp3"
+      },
+      {
+         "name": "سورة النساء",
+         "link": "https://server10.mp3quran.net/trabulsi/004.mp3"
+      },
+      {
+         "name": "سورة المائدة",
+         "link": "https://server10.mp3quran.net/trabulsi/005.mp3"
+      },
+      {
+         "name": "سورة الأنعام",
+         "link": "https://server10.mp3quran.net/trabulsi/006.mp3"
+      },
+      {
+         "name": "سورة الأعراف",
+         "link": "https://server10.mp3quran.net/trabulsi/007.mp3"
+      },
+      {
+         "name": "سورة الأنفال",
+         "link": "https://server10.mp3quran.net/trabulsi/008.mp3"
+      },
+      {
+         "name": "سورة التوبة",
+         "link": "https://server10.mp3quran.net/trabulsi/009.mp3"
+      },
+      {
+         "name": "سورة يونس",
+         "link": "https://server10.mp3quran.net/trabulsi/010.mp3"
+      },
+      {
+         "name": "سورة هود",
+         "link": "https://server10.mp3quran.net/trabulsi/011.mp3"
+      },
+      {
+         "name": "سورة يوسف",
+         "link": "https://server10.mp3quran.net/trabulsi/012.mp3"
+      },
+      {
+         "name": "سورة الرعد",
+         "link": "https://server10.mp3quran.net/trabulsi/013.mp3"
+      },
+      {
+         "name": "سورة إبراهيم",
+         "link": "https://server10.mp3quran.net/trabulsi/014.mp3"
+      },
+      {
+         "name": "سورة الحجر",
+         "link": "https://server10.mp3quran.net/trabulsi/015.mp3"
+      },
+      {
+         "name": "سورة النحل",
+         "link": "https://server10.mp3quran.net/trabulsi/016.mp3"
+      },
+      {
+         "name": "سورة الإسراء",
+         "link": "https://server10.mp3quran.net/trabulsi/017.mp3"
+      },
+      {
+         "name": "سورة الكهف",
+         "link": "https://server10.mp3quran.net/trabulsi/018.mp3"
+      },
+      {
+         "name": "سورة مريم",
+         "link": "https://server10.mp3quran.net/trabulsi/019.mp3"
+      },
+      {
+         "name": "سورة طه",
+         "link": "https://server10.mp3quran.net/trabulsi/020.mp3"
+      },
+      {
+         "name": "سورة الأنبياء",
+         "link": "https://server10.mp3quran.net/trabulsi/021.mp3"
+      },
+      {
+         "name": "سورة الحج",
+         "link": "https://server10.mp3quran.net/trabulsi/022.mp3"
+      },
+      {
+         "name": "سورة المؤمنون",
+         "link": "https://server10.mp3quran.net/trabulsi/023.mp3"
+      },
+      {
+         "name": "سورة النور",
+         "link": "https://server10.mp3quran.net/trabulsi/024.mp3"
+      },
+      {
+         "name": "سورة الفرقان",
+         "link": "https://server10.mp3quran.net/trabulsi/025.mp3"
+      },
+      {
+         "name": "سورة الشعراء",
+         "link": "https://server10.mp3quran.net/trabulsi/026.mp3"
+      },
+      {
+         "name": "سورة النمل",
+         "link": "https://server10.mp3quran.net/trabulsi/027.mp3"
+      },
+      {
+         "name": "سورة القصص",
+         "link": "https://server10.mp3quran.net/trabulsi/028.mp3"
+      },
+      {
+         "name": "سورة العنكبوت",
+         "link": "https://server10.mp3quran.net/trabulsi/029.mp3"
+      },
+      {
+         "name": "سورة الروم",
+         "link": "https://server10.mp3quran.net/trabulsi/030.mp3"
+      },
+      {
+         "name": "سورة لقمان",
+         "link": "https://server10.mp3quran.net/trabulsi/031.mp3"
+      },
+      {
+         "name": "سورة السجدة",
+         "link": "https://server10.mp3quran.net/trabulsi/032.mp3"
+      },
+      {
+         "name": "سورة الأحزاب",
+         "link": "https://server10.mp3quran.net/trabulsi/033.mp3"
+      },
+      {
+         "name": "سورة سبأ",
+         "link": "https://server10.mp3quran.net/trabulsi/034.mp3"
+      },
+      {
+         "name": "سورة فاطر",
+         "link": "https://server10.mp3quran.net/trabulsi/035.mp3"
+      },
+      {
+         "name": "سورة يس",
+         "link": "https://server10.mp3quran.net/trabulsi/036.mp3"
+      },
+      {
+         "name": "سورة الصافات",
+         "link": "https://server10.mp3quran.net/trabulsi/037.mp3"
+      },
+      {
+         "name": "سورة ص",
+         "link": "https://server10.mp3quran.net/trabulsi/038.mp3"
+      },
+      {
+         "name": "سورة الزمر",
+         "link": "https://server10.mp3quran.net/trabulsi/039.mp3"
+      },
+      {
+         "name": "سورة غافر",
+         "link": "https://server10.mp3quran.net/trabulsi/040.mp3"
+      },
+      {
+         "name": "سورة فصلت",
+         "link": "https://server10.mp3quran.net/trabulsi/041.mp3"
+      },
+      {
+         "name": "سورة الشورى",
+         "link": "https://server10.mp3quran.net/trabulsi/042.mp3"
+      },
+      {
+         "name": "سورة الزخرف",
+         "link": "https://server10.mp3quran.net/trabulsi/043.mp3"
+      },
+      {
+         "name": "سورة الدّخان",
+         "link": "https://server10.mp3quran.net/trabulsi/044.mp3"
+      },
+      {
+         "name": "سورة الجاثية",
+         "link": "https://server10.mp3quran.net/trabulsi/045.mp3"
+      },
+      {
+         "name": "سورة الأحقاف",
+         "link": "https://server10.mp3quran.net/trabulsi/046.mp3"
+      },
+      {
+         "name": "سورة محمد",
+         "link": "https://server10.mp3quran.net/trabulsi/047.mp3"
+      },
+      {
+         "name": "سورة الفتح",
+         "link": "https://server10.mp3quran.net/trabulsi/048.mp3"
+      },
+      {
+         "name": "سورة الحجرات",
+         "link": "https://server10.mp3quran.net/trabulsi/049.mp3"
+      },
+      {
+         "name": "سورة ق",
+         "link": "https://server10.mp3quran.net/trabulsi/050.mp3"
+      },
+      {
+         "name": "سورة الذاريات",
+         "link": "https://server10.mp3quran.net/trabulsi/051.mp3"
+      },
+      {
+         "name": "سورة الطور",
+         "link": "https://server10.mp3quran.net/trabulsi/052.mp3"
+      },
+      {
+         "name": "سورة النجم",
+         "link": "https://server10.mp3quran.net/trabulsi/053.mp3"
+      },
+      {
+         "name": "سورة القمر",
+         "link": "https://server10.mp3quran.net/trabulsi/054.mp3"
+      },
+      {
+         "name": "سورة الرحمن",
+         "link": "https://server10.mp3quran.net/trabulsi/055.mp3"
+      },
+      {
+         "name": "سورة الواقعة",
+         "link": "https://server10.mp3quran.net/trabulsi/056.mp3"
+      },
+      {
+         "name": "سورة الحديد",
+         "link": "https://server10.mp3quran.net/trabulsi/057.mp3"
+      },
+      {
+         "name": "سورة المجادلة",
+         "link": "https://server10.mp3quran.net/trabulsi/058.mp3"
+      },
+      {
+         "name": "سورة الحشر",
+         "link": "https://server10.mp3quran.net/trabulsi/059.mp3"
+      },
+      {
+         "name": "سورة الممتحنة",
+         "link": "https://server10.mp3quran.net/trabulsi/060.mp3"
+      },
+      {
+         "name": "سورة الصف",
+         "link": "https://server10.mp3quran.net/trabulsi/061.mp3"
+      },
+      {
+         "name": "سورة الجمعة",
+         "link": "https://server10.mp3quran.net/trabulsi/062.mp3"
+      },
+      {
+         "name": "سورة المنافقون",
+         "link": "https://server10.mp3quran.net/trabulsi/063.mp3"
+      },
+      {
+         "name": "سورة التغابن",
+         "link": "https://server10.mp3quran.net/trabulsi/064.mp3"
+      },
+      {
+         "name": "سورة الطلاق",
+         "link": "https://server10.mp3quran.net/trabulsi/065.mp3"
+      },
+      {
+         "name": "سورة التحريم",
+         "link": "https://server10.mp3quran.net/trabulsi/066.mp3"
+      },
+      {
+         "name": "سورة الملك",
+         "link": "https://server10.mp3quran.net/trabulsi/067.mp3"
+      },
+      {
+         "name": "سورة القلم",
+         "link": "https://server10.mp3quran.net/trabulsi/068.mp3"
+      },
+      {
+         "name": "سورة الحاقة",
+         "link": "https://server10.mp3quran.net/trabulsi/069.mp3"
+      },
+      {
+         "name": "سورة المعارج",
+         "link": "https://server10.mp3quran.net/trabulsi/070.mp3"
+      },
+      {
+         "name": "سورة نوح",
+         "link": "https://server10.mp3quran.net/trabulsi/071.mp3"
+      },
+      {
+         "name": "سورة الجن",
+         "link": "https://server10.mp3quran.net/trabulsi/072.mp3"
+      },
+      {
+         "name": "سورة المزمل",
+         "link": "https://server10.mp3quran.net/trabulsi/073.mp3"
+      },
+      {
+         "name": "سورة المدثر",
+         "link": "https://server10.mp3quran.net/trabulsi/074.mp3"
+      },
+      {
+         "name": "سورة القيامة",
+         "link": "https://server10.mp3quran.net/trabulsi/075.mp3"
+      },
+      {
+         "name": "سورة الإنسان",
+         "link": "https://server10.mp3quran.net/trabulsi/076.mp3"
+      },
+      {
+         "name": "سورة المرسلات",
+         "link": "https://server10.mp3quran.net/trabulsi/077.mp3"
+      },
+      {
+         "name": "سورة النبأ",
+         "link": "https://server10.mp3quran.net/trabulsi/078.mp3"
+      },
+      {
+         "name": "سورة النازعات",
+         "link": "https://server10.mp3quran.net/trabulsi/079.mp3"
+      },
+      {
+         "name": "سورة عبس",
+         "link": "https://server10.mp3quran.net/trabulsi/080.mp3"
+      },
+      {
+         "name": "سورة التكوير",
+         "link": "https://server10.mp3quran.net/trabulsi/081.mp3"
+      },
+      {
+         "name": "سورة الإنفطار",
+         "link": "https://server10.mp3quran.net/trabulsi/082.mp3"
+      },
+      {
+         "name": "سورة المطففين",
+         "link": "https://server10.mp3quran.net/trabulsi/083.mp3"
+      },
+      {
+         "name": "سورة الإنشقاق",
+         "link": "https://server10.mp3quran.net/trabulsi/084.mp3"
+      },
+      {
+         "name": "سورة البروج",
+         "link": "https://server10.mp3quran.net/trabulsi/085.mp3"
+      },
+      {
+         "name": "سورة الطارق",
+         "link": "https://server10.mp3quran.net/trabulsi/086.mp3"
+      },
+      {
+         "name": "سورة الأعلى",
+         "link": "https://server10.mp3quran.net/trabulsi/087.mp3"
+      },
+      {
+         "name": "سورة الغاشية",
+         "link": "https://server10.mp3quran.net/trabulsi/088.mp3"
+      },
+      {
+         "name": "سورة الفجر",
+         "link": "https://server10.mp3quran.net/trabulsi/089.mp3"
+      },
+      {
+         "name": "سورة البلد",
+         "link": "https://server10.mp3quran.net/trabulsi/090.mp3"
+      },
+      {
+         "name": "سورة الشمس",
+         "link": "https://server10.mp3quran.net/trabulsi/091.mp3"
+      },
+      {
+         "name": "سورة الليل",
+         "link": "https://server10.mp3quran.net/trabulsi/092.mp3"
+      },
+      {
+         "name": "سورة الضحى",
+         "link": "https://server10.mp3quran.net/trabulsi/093.mp3"
+      },
+      {
+         "name": "سورة الشرح",
+         "link": "https://server10.mp3quran.net/trabulsi/094.mp3"
+      },
+      {
+         "name": "سورة التين",
+         "link": "https://server10.mp3quran.net/trabulsi/095.mp3"
+      },
+      {
+         "name": "سورة العلق",
+         "link": "https://server10.mp3quran.net/trabulsi/096.mp3"
+      },
+      {
+         "name": "سورة القدر",
+         "link": "https://server10.mp3quran.net/trabulsi/097.mp3"
+      },
+      {
+         "name": "سورة البينة",
+         "link": "https://server10.mp3quran.net/trabulsi/098.mp3"
+      },
+      {
+         "name": "سورة الزلزلة",
+         "link": "https://server10.mp3quran.net/trabulsi/099.mp3"
+      },
+      {
+         "name": "سورة العاديات",
+         "link": "https://server10.mp3quran.net/trabulsi/100.mp3"
+      },
+      {
+         "name": "سورة القارعة",
+         "link": "https://server10.mp3quran.net/trabulsi/101.mp3"
+      },
+      {
+         "name": "سورة التكاثر",
+         "link": "https://server10.mp3quran.net/trabulsi/102.mp3"
+      },
+      {
+         "name": "سورة العصر",
+         "link": "https://server10.mp3quran.net/trabulsi/103.mp3"
+      },
+      {
+         "name": "سورة الهمزة",
+         "link": "https://server10.mp3quran.net/trabulsi/104.mp3"
+      },
+      {
+         "name": "سورة الفيل",
+         "link": "https://server10.mp3quran.net/trabulsi/105.mp3"
+      },
+      {
+         "name": "سورة قريش",
+         "link": "https://server10.mp3quran.net/trabulsi/106.mp3"
+      },
+      {
+         "name": "سورة الماعون",
+         "link": "https://server10.mp3quran.net/trabulsi/107.mp3"
+      },
+      {
+         "name": "سورة الكوثر",
+         "link": "https://server10.mp3quran.net/trabulsi/108.mp3"
+      },
+      {
+         "name": "سورة الكافرون",
+         "link": "https://server10.mp3quran.net/trabulsi/109.mp3"
+      },
+      {
+         "name": "سورة النصر",
+         "link": "https://server10.mp3quran.net/trabulsi/110.mp3"
+      },
+      {
+         "name": "سورة المسد",
+         "link": "https://server10.mp3quran.net/trabulsi/111.mp3"
+      },
+      {
+         "name": "سورة الإخلاص",
+         "link": "https://server10.mp3quran.net/trabulsi/112.mp3"
+      },
+      {
+         "name": "سورة الفلق",
+         "link": "https://server10.mp3quran.net/trabulsi/113.mp3"
+      },
+      {
+         "name": "سورة الناس",
+         "link": "https://server10.mp3quran.net/trabulsi/114.mp3"
+      }
+   ]
+}

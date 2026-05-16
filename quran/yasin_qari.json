@@ -1,0 +1,462 @@
+{
+   "name": "ياسين",
+   "Sheikh's photo": "",
+   "surahs": [
+      {
+         "name": "سورة الفاتحة",
+         "link": "https://server11.mp3quran.net/qari/001.mp3"
+      },
+      {
+         "name": "سورة البقرة",
+         "link": "https://server11.mp3quran.net/qari/002.mp3"
+      },
+      {
+         "name": "سورة آل عمران",
+         "link": "https://server11.mp3quran.net/qari/003.mp3"
+      },
+      {
+         "name": "سورة النساء",
+         "link": "https://server11.mp3quran.net/qari/004.mp3"
+      },
+      {
+         "name": "سورة المائدة",
+         "link": "https://server11.mp3quran.net/qari/005.mp3"
+      },
+      {
+         "name": "سورة الأنعام",
+         "link": "https://server11.mp3quran.net/qari/006.mp3"
+      },
+      {
+         "name": "سورة الأعراف",
+         "link": "https://server11.mp3quran.net/qari/007.mp3"
+      },
+      {
+         "name": "سورة الأنفال",
+         "link": "https://server11.mp3quran.net/qari/008.mp3"
+      },
+      {
+         "name": "سورة التوبة",
+         "link": "https://server11.mp3quran.net/qari/009.mp3"
+      },
+      {
+         "name": "سورة يونس",
+         "link": "https://server11.mp3quran.net/qari/010.mp3"
+      },
+      {
+         "name": "سورة هود",
+         "link": "https://server11.mp3quran.net/qari/011.mp3"
+      },
+      {
+         "name": "سورة يوسف",
+         "link": "https://server11.mp3quran.net/qari/012.mp3"
+      },
+      {
+         "name": "سورة الرعد",
+         "link": "https://server11.mp3quran.net/qari/013.mp3"
+      },
+      {
+         "name": "سورة إبراهيم",
+         "link": "https://server11.mp3quran.net/qari/014.mp3"
+      },
+      {
+         "name": "سورة الحجر",
+         "link": "https://server11.mp3quran.net/qari/015.mp3"
+      },
+      {
+         "name": "سورة النحل",
+         "link": "https://server11.mp3quran.net/qari/016.mp3"
+      },
+      {
+         "name": "سورة الإسراء",
+         "link": "https://server11.mp3quran.net/qari/017.mp3"
+      },
+      {
+         "name": "سورة الكهف",
+         "link": "https://server11.mp3quran.net/qari/018.mp3"
+      },
+      {
+         "name": "سورة مريم",
+         "link": "https://server11.mp3quran.net/qari/019.mp3"
+      },
+      {
+         "name": "سورة طه",
+         "link": "https://server11.mp3quran.net/qari/020.mp3"
+      },
+      {
+         "name": "سورة الأنبياء",
+         "link": "https://server11.mp3quran.net/qari/021.mp3"
+      },
+      {
+         "name": "سورة الحج",
+         "link": "https://server11.mp3quran.net/qari/022.mp3"
+      },
+      {
+         "name": "سورة المؤمنون",
+         "link": "https://server11.mp3quran.net/qari/023.mp3"
+      },
+      {
+         "name": "سورة النور",
+         "link": "https://server11.mp3quran.net/qari/024.mp3"
+      },
+      {
+         "name": "سورة الفرقان",
+         "link": "https://server11.mp3quran.net/qari/025.mp3"
+      },
+      {
+         "name": "سورة الشعراء",
+         "link": "https://server11.mp3quran.net/qari/026.mp3"
+      },
+      {
+         "name": "سورة النمل",
+         "link": "https://server11.mp3quran.net/qari/027.mp3"
+      },
+      {
+         "name": "سورة القصص",
+         "link": "https://server11.mp3quran.net/qari/028.mp3"
+      },
+      {
+         "name": "سورة العنكبوت",
+         "link": "https://server11.mp3quran.net/qari/029.mp3"
+      },
+      {
+         "name": "سورة الروم",
+         "link": "https://server11.mp3quran.net/qari/030.mp3"
+      },
+      {
+         "name": "سورة لقمان",
+         "link": "https://server11.mp3quran.net/qari/031.mp3"
+      },
+      {
+         "name": "سورة السجدة",
+         "link": "https://server11.mp3quran.net/qari/032.mp3"
+      },
+      {
+         "name": "سورة الأحزاب",
+         "link": "https://server11.mp3quran.net/qari/033.mp3"
+      },
+      {
+         "name": "سورة سبأ",
+         "link": "https://server11.mp3quran.net/qari/034.mp3"
+      },
+      {
+         "name": "سورة فاطر",
+         "link": "https://server11.mp3quran.net/qari/035.mp3"
+      },
+      {
+         "name": "سورة يس",
+         "link": "https://server11.mp3quran.net/qari/036.mp3"
+      },
+      {
+         "name": "سورة الصافات",
+         "link": "https://server11.mp3quran.net/qari/037.mp3"
+      },
+      {
+         "name": "سورة ص",
+         "link": "https://server11.mp3quran.net/qari/038.mp3"
+      },
+      {
+         "name": "سورة الزمر",
+         "link": "https://server11.mp3quran.net/qari/039.mp3"
+      },
+      {
+         "name": "سورة غافر",
+         "link": "https://server11.mp3quran.net/qari/040.mp3"
+      },
+      {
+         "name": "سورة فصلت",
+         "link": "https://server11.mp3quran.net/qari/041.mp3"
+      },
+      {
+         "name": "سورة الشورى",
+         "link": "https://server11.mp3quran.net/qari/042.mp3"
+      },
+      {
+         "name": "سورة الزخرف",
+         "link": "https://server11.mp3quran.net/qari/043.mp3"
+      },
+      {
+         "name": "سورة الدخان",
+         "link": "https://server11.mp3quran.net/qari/044.mp3"
+      },
+      {
+         "name": "سورة الجاثية",
+         "link": "https://server11.mp3quran.net/qari/045.mp3"
+      },
+      {
+         "name": "سورة الأحقاف",
+         "link": "https://server11.mp3quran.net/qari/046.mp3"
+      },
+      {
+         "name": "سورة محمد",
+         "link": "https://server11.mp3quran.net/qari/047.mp3"
+      },
+      {
+         "name": "سورة الفتح",
+         "link": "https://server11.mp3quran.net/qari/048.mp3"
+      },
+      {
+         "name": "سورة الحجرات",
+         "link": "https://server11.mp3quran.net/qari/049.mp3"
+      },
+      {
+         "name": "سورة ق",
+         "link": "https://server11.mp3quran.net/qari/050.mp3"
+      },
+      {
+         "name": "سورة الذاريات",
+         "link": "https://server11.mp3quran.net/qari/051.mp3"
+      },
+      {
+         "name": "سورة الطور",
+         "link": "https://server11.mp3quran.net/qari/052.mp3"
+      },
+      {
+         "name": "سورة النجم",
+         "link": "https://server11.mp3quran.net/qari/053.mp3"
+      },
+      {
+         "name": "سورة القمر",
+         "link": "https://server11.mp3quran.net/qari/054.mp3"
+      },
+      {
+         "name": "سورة الرحمن",
+         "link": "https://server11.mp3quran.net/qari/055.mp3"
+      },
+      {
+         "name": "سورة الواقعة",
+         "link": "https://server11.mp3quran.net/qari/056.mp3"
+      },
+      {
+         "name": "سورة الحديد",
+         "link": "https://server11.mp3quran.net/qari/057.mp3"
+      },
+      {
+         "name": "سورة المجادلة",
+         "link": "https://server11.mp3quran.net/qari/058.mp3"
+      },
+      {
+         "name": "سورة الحشر",
+         "link": "https://server11.mp3quran.net/qari/059.mp3"
+      },
+      {
+         "name": "سورة الممتحنة",
+         "link": "https://server11.mp3quran.net/qari/060.mp3"
+      },
+      {
+         "name": "سورة الصف",
+         "link": "https://server11.mp3quran.net/qari/061.mp3"
+      },
+      {
+         "name": "سورة الجمعة",
+         "link": "https://server11.mp3quran.net/qari/062.mp3"
+      },
+      {
+         "name": "سورة المنافقون",
+         "link": "https://server11.mp3quran.net/qari/063.mp3"
+      },
+      {
+         "name": "سورة التغابن",
+         "link": "https://server11.mp3quran.net/qari/064.mp3"
+      },
+      {
+         "name": "سورة الطلاق",
+         "link": "https://server11.mp3quran.net/qari/065.mp3"
+      },
+      {
+         "name": "سورة التحريم",
+         "link": "https://server11.mp3quran.net/qari/066.mp3"
+      },
+      {
+         "name": "سورة الملك",
+         "link": "https://server11.mp3quran.net/qari/067.mp3"
+      },
+      {
+         "name": "سورة القلم",
+         "link": "https://server11.mp3quran.net/qari/068.mp3"
+      },
+      {
+         "name": "سورة الحاقة",
+         "link": "https://server11.mp3quran.net/qari/069.mp3"
+      },
+      {
+         "name": "سورة المعارج",
+         "link": "https://server11.mp3quran.net/qari/070.mp3"
+      },
+      {
+         "name": "سورة نوح",
+         "link": "https://server11.mp3quran.net/qari/071.mp3"
+      },
+      {
+         "name": "سورة الجن",
+         "link": "https://server11.mp3quran.net/qari/072.mp3"
+      },
+      {
+         "name": "سورة المزمل",
+         "link": "https://server11.mp3quran.net/qari/073.mp3"
+      },
+      {
+         "name": "سورة المدثر",
+         "link": "https://server11.mp3quran.net/qari/074.mp3"
+      },
+      {
+         "name": "سورة القيامة",
+         "link": "https://server11.mp3quran.net/qari/075.mp3"
+      },
+      {
+         "name": "سورة الإنسان",
+         "link": "https://server11.mp3quran.net/qari/076.mp3"
+      },
+      {
+         "name": "سورة المرسلات",
+         "link": "https://server11.mp3quran.net/qari/077.mp3"
+      },
+      {
+         "name": "سورة النبأ",
+         "link": "https://server11.mp3quran.net/qari/078.mp3"
+      },
+      {
+         "name": "سورة النازعات",
+         "link": "https://server11.mp3quran.net/qari/079.mp3"
+      },
+      {
+         "name": "سورة عبس",
+         "link": "https://server11.mp3quran.net/qari/080.mp3"
+      },
+      {
+         "name": "سورة التكوير",
+         "link": "https://server11.mp3quran.net/qari/081.mp3"
+      },
+      {
+         "name": "سورة الإنفطار",
+         "link": "https://server11.mp3quran.net/qari/082.mp3"
+      },
+      {
+         "name": "سورة المطففين",
+         "link": "https://server11.mp3quran.net/qari/083.mp3"
+      },
+      {
+         "name": "سورة الإنشقاق",
+         "link": "https://server11.mp3quran.net/qari/084.mp3"
+      },
+      {
+         "name": "سورة البروج",
+         "link": "https://server11.mp3quran.net/qari/085.mp3"
+      },
+      {
+         "name": "سورة الطارق",
+         "link": "https://server11.mp3quran.net/qari/086.mp3"
+      },
+      {
+         "name": "سورة الأعلى",
+         "link": "https://server11.mp3quran.net/qari/087.mp3"
+      },
+      {
+         "name": "سورة الغاشية",
+         "link": "https://server11.mp3quran.net/qari/088.mp3"
+      },
+      {
+         "name": "سورة الفجر",
+         "link": "https://server11.mp3quran.net/qari/089.mp3"
+      },
+      {
+         "name": "سورة البلد",
+         "link": "https://server11.mp3quran.net/qari/090.mp3"
+      },
+      {
+         "name": "سورة الشمس",
+         "link": "https://server11.mp3quran.net/qari/091.mp3"
+      },
+      {
+         "name": "سورة الليل",
+         "link": "https://server11.mp3quran.net/qari/092.mp3"
+      },
+      {
+         "name": "سورة الضحى",
+         "link": "https://server11.mp3quran.net/qari/093.mp3"
+      },
+      {
+         "name": "سورة الشرح",
+         "link": "https://server11.mp3quran.net/qari/094.mp3"
+      },
+      {
+         "name": "سورة التين",
+         "link": "https://server11.mp3quran.net/qari/095.mp3"
+      },
+      {
+         "name": "سورة العلق",
+         "link": "https://server11.mp3quran.net/qari/096.mp3"
+      },
+      {
+         "name": "سورة القدر",
+         "link": "https://server11.mp3quran.net/qari/097.mp3"
+      },
+      {
+         "name": "سورة البينة",
+         "link": "https://server11.mp3quran.net/qari/098.mp3"
+      },
+      {
+         "name": "سورة الزلزلة",
+         "link": "https://server11.mp3quran.net/qari/099.mp3"
+      },
+      {
+         "name": "سورة العاديات",
+         "link": "https://server11.mp3quran.net/qari/100.mp3"
+      },
+      {
+         "name": "سورة القارعة",
+         "link": "https://server11.mp3quran.net/qari/101.mp3"
+      },
+      {
+         "name": "سورة التكاثر",
+         "link": "https://server11.mp3quran.net/qari/102.mp3"
+      },
+      {
+         "name": "سورة العصر",
+         "link": "https://server11.mp3quran.net/qari/103.mp3"
+      },
+      {
+         "name": "سورة الهمزة",
+         "link": "https://server11.mp3quran.net/qari/104.mp3"
+      },
+      {
+         "name": "سورة الفيل",
+         "link": "https://server11.mp3quran.net/qari/105.mp3"
+      },
+      {
+         "name": "سورة قريش",
+         "link": "https://server11.mp3quran.net/qari/106.mp3"
+      },
+      {
+         "name": "سورة الماعون",
+         "link": "https://server11.mp3quran.net/qari/107.mp3"
+      },
+      {
+         "name": "سورة الكوثر",
+         "link": "https://server11.mp3quran.net/qari/108.mp3"
+      },
+      {
+         "name": "سورة الكافرون",
+         "link": "https://server11.mp3quran.net/qari/109.mp3"
+      },
+      {
+         "name": "سورة النصر",
+         "link": "https://server11.mp3quran.net/qari/110.mp3"
+      },
+      {
+         "name": "سورة المسد",
+         "link": "https://server11.mp3quran.net/qari/111.mp3"
+      },
+      {
+         "name": "سورة الإخلاص",
+         "link": "https://server11.mp3quran.net/qari/112.mp3"
+      },
+      {
+         "name": "سورة الفلق",
+         "link": "https://server11.mp3quran.net/qari/113.mp3"
+      },
+      {
+         "name": "سورة الناس",
+         "link": "https://server11.mp3quran.net/qari/114.mp3"
+      }
+   ]
+}
